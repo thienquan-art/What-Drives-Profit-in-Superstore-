@@ -1,4 +1,4 @@
-# Superstore Simple Analysis
+# Superstore Business Analysis
 
 I explored the **Superstore sales dataset from Kaggle** to understand where the business is making money, losing money, and which customers and products matter most.
 
